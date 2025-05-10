@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nevathan
 
 🎓 Second-year Computer Science student at McMaster University  
-💡 Passionate about full-stack development, UI/UX, and data analytics  
+💡 Passionate about full-stack development, Machine Learning, and data analytics  
 🔗 Currently building smart web tools with clean design and real-world impact
 
 ---
@@ -20,22 +20,15 @@
 ## 🛠️ Tech Stack & Tools
 
 **Languages & Libraries:**  
-`Python` | `NumPy` | `Pandas` | `Matplotlib` | `Seaborn` | `Scikit-learn` | `SQL` | `JavaScript` | `PHP` | `React.js` | `HTML/CSS`  
+`Python` | `NumPy` | `Pandas` | `Matplotlib` | `Seaborn` | `Scikit-learn` | `SQL` | `JavaScript` | `PHP` | `React.js` | `HTML/CSS` | `C`| `Haskell`|
 
 **Tools & Platforms:**  
-`Git & GitHub` | `Figma` | `Notion` | `Jira` | `VS Code` | `MySQL` | `Firebase` | `Render` | `Heroku`
+`Git & GitHub` | `Figma` | `Notion` | `Jira` | `VS Code` | `MySQL` | `Firebase` | `Render` | `Heroku`| `Jupyter Notebook`|
 
 ---
-
-## 📊 GitHub Stats
-
-![Nevathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsernameHere&show_icons=true&theme=radical)
-
----
-
 ## 🤝 Connect with me
 
-📫 [Email me](mailto:your.email@example.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-🌐 Portfolio coming soon!
+📫 [Email me](nevathan321@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/nevathan-arasan)  
+
 
