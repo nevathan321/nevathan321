@@ -20,10 +20,10 @@
 ## 🛠️ Tech Stack & Tools
 
 **Languages & Libraries:**  
-`Python` | `NumPy` | `Pandas` | `Matplotlib` | `Seaborn` | `Scikit-learn` | `SQL` | `JavaScript` | `PHP` | `React.js` | `HTML/CSS` | `C`| `Haskell`|
+`Python` | `NumPy` | `Pandas` | `Matplotlib` | `Seaborn` | `Scikit-learn` | `SQL` | `JavaScript` | `PHP` | `React.js` | `HTML/CSS` | `C`| `Haskell`| 
 
 **Tools & Platforms:**  
-`Git & GitHub` | `Figma` | `Notion` | `Jira` | `VS Code` | `MySQL` | `Jupyter Notebook`|
+`Git & GitHub` | `Figma` | `Notion` | `Jira` | `VS Code` | `MySQL` | `Jupyter Notebook`| `Excel` | `AWS` | 
  
 ---
 ## 🤝 Connect with me
