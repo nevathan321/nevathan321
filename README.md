@@ -4,19 +4,6 @@
 💡 Passionate about full-stack development, Machine Learning, and data analytics  
 🔗 Currently building smart web tools with clean design and real-world impact
 
----
-
-## 🚀 Projects
-
-### 🎯 TutorMatch (Mar 2025 – Apr 2025)  
-**A web platform connecting students with qualified tutors**  
-- Developed a full-stack web app with PHP, SQL, React.js, and CSS  
-- Built 8+ features: authentication, tutor applications, profile management, real-time notifications  
-- Designed UI in Figma and managed work using GitHub & Notion  
-- Deployed on a university-provided server
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 **Languages & Libraries:**  
