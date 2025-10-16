@@ -5,7 +5,7 @@
 
 - 📊 Currently working on research focused on athlete injury prediction using machine learning and NBA player data
 
-- 🔭 I’m currently working on [FantasyBasketballAnalytics](https://github.com/nevathan321/FantasyBasketballAnalytics)
+- 🔭 I’m simultaneously working on [FantasyBasketballAnalytics](https://github.com/nevathan321/FantasyBasketballAnalytics) to win a $500 league. 
 
 - 🌱 I’m currently learning **DataBricks**
 
