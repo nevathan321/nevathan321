@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nevathan321&label=Profile%20views&color=0e75b6&style=flat" alt="nevathan321" /> </p>
 
+- 📊 Currently working on research focused on athlete injury prediction using machine learning and NBA player data
+
 - 🔭 I’m currently working on [FantasyBasketballAnalytics](https://github.com/nevathan321/FantasyBasketballAnalytics)
 
 - 🌱 I’m currently learning **DataBricks**
