@@ -5,7 +5,7 @@
 
 - 📊 Currently working on research focused on athlete injury prediction using machine learning and NBA player data
 
-- 🔭 I’m simultaneously working on [FantasyBasketballAnalytics](https://github.com/nevathan321/FantasyBasketballAnalytics) to win a $500 league. 
+- 🔭 I’m building an analytics project that analyzes TTC route data and visualizes insights in Power BI dashboards.
 
 - 🌱 I’m currently learning **DataBricks**
 
