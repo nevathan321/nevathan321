@@ -7,7 +7,7 @@
 
 - 🔭 I’m building an analytics project that analyzes TTC route data and visualizes insights in Power BI dashboards.
 
-- 🌱 I’m currently learning **DataBricks**
+- 🌱 I’m currently learning **Microsoft Fabric**, focusing on end-to-end analytics and data engineering concepts
 
 - 💬 Ask me about **building data pipelines, machine learning models, business intelligence dashboards, and data-driven solutions for strategic and operational challenges.**
 
