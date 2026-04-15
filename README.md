@@ -1,18 +1,27 @@
-<h1 align="center">Hi 👋, I'm Nevathan Arasanchandrasegara</h1>
-<h3 align="center">Exploring the intersection of technology, analytics, and innovation</h3>
+<h1 align="center">Hi, I'm Nevathan Arasanchandrasegara</h1>
+<h3 align="center">Data Engineer | Machine Learning Researcher | Cloud Data Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nevathan321&label=Profile%20views&color=0e75b6&style=flat" alt="nevathan321" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nevathan321&label=Profile%20views&color=0e75b6&style=flat" alt="nevathan321" />
+</p>
 
-- 📊 Currently working on research focused on athlete injury prediction using machine learning and NBA player data
+* Currently working as a Data Engineer at HSS Business Solutions
 
-- 🔭 I’m building an analytics project that analyzes TTC route data and visualizes insights in Power BI dashboards.
+* Machine Learning Researcher at McMaster University, focused on predictive modeling and applied data science
 
-- 🌱 I’m currently learning **Microsoft Fabric**, focusing on end-to-end analytics and data engineering concepts
+* Building cloud-based tools that integrate with data systems for scalable analytics and automation
 
-- 💬 Ask me about **building data pipelines, machine learning models, business intelligence dashboards, and data-driven solutions for strategic and operational challenges.**
+* Working with data pipelines, machine learning models, and business intelligence dashboards
 
-- 📫 How to reach me **nevathan321@gmail.com**
+* Currently exploring Microsoft Fabric and modern data engineering architectures
+
+* Ask me about building data systems, machine learning workflows, and end-to-end analytics solutions
+
+* Contact: [nevathan321@gmail.com](mailto:nevathan321@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nevathan-arasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nevathan-arasan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nevathan-arasan" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nevathan-arasan" height="30" width="40" />
+</a>
+</p>
